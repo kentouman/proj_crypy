@@ -7,7 +7,7 @@ public class testcase1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		shiftcipher cc = new shiftcipher();
-		int pt = 1000;
+		int pt = 1001;
 		int key = 234231;
 		int ct = cc.encrypt(pt, key);
 		int dt = cc.decrypt(ct, key);
