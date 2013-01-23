@@ -1,6 +1,6 @@
 package cryptoz;
 
-public class shiftcipher {
+public class ShiftCipher {
 	public int encrypt(int plaintext, int key)
 	{
 		return (plaintext + key);
