@@ -1,3 +1,4 @@
+package cryptoz;
 
 public class shiftcipher {
 	public int encrypt(int plaintext, int key)

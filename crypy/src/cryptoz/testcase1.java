@@ -1,3 +1,4 @@
+package cryptoz;
 
 public class testcase1 {
 
